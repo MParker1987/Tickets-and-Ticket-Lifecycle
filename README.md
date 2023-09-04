@@ -32,8 +32,7 @@ Tickets
 
 When an agent logs in to the help desk, they will be automatically routed to the Open Ticket Queue.
 
-.. image:: ../../_static/images/agent_tickets_ticket_ticketQueue.png
-  :alt: Ticket Queue
+<img src="https://osticket.com/wp-content/uploads/2021/01/Assign_Transfer_Referral_1.jpg"/>
 
 These are tickets the Agent has access to based on their Department and Group assignments as well as tickets that are assigned directly to them or a team they are included.
 
