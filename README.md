@@ -54,8 +54,7 @@ Tickets in these queues are not unique to each queue meaning that there may be s
 
 Agents can preview the metadata of the ticket by hovering over the ticket number. A pop-up box will appear allowing the Agent access to actions along the bottom of the pop-up as well as access to the collaborators of the ticket.
 
-.. image:: ../../_static/images/agent_tickets_ticket_ticketPreview.png
-  :alt: Ticket Preview
+<img src="https://d3bql97l1ytoxn.cloudfront.net/app_resources/44678/screenshot/img2147879080862405240.png"/>
 
 Agents can open up the ticket by clicking on the Ticket Number or the Subject of the ticket. When an agent opens the ticket, the default will be to direct them to the Reply box at the bottom of the ticket.
 
