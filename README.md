@@ -1,1 +1,1 @@
-# Tickets-and-Ticket-Lifecycle
+# Tickets and Ticket Lifecycle
