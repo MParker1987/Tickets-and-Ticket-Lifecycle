@@ -58,8 +58,7 @@ Agents can preview the metadata of the ticket by hovering over the ticket number
 
 Agents can open up the ticket by clicking on the Ticket Number or the Subject of the ticket. When an agent opens the ticket, the default will be to direct them to the Reply box at the bottom of the ticket.
 
-.. image:: ../../_static/images/agent_tickets_ticket_ticketReply.png
-  :alt: Ticket Reply Box
+<img src="https://docs.osticket.com/en/latest/_images/collabs_ticket_reply.png"/>
 
 Based on their Role permissions, Agents can reply back to the end user by typing their response into the box- including adding attachments, links and embedding YouTube videos. Agents can select a canned response from the drop down in the reply box even if typing some of the response. All canned responses can also be edited by the Agents in the reply box prior to being sent. Collaborators can be added here to have access to the ticket. If necessary, the status of the ticket can be changed from the drop down prior to posting the response.
 
