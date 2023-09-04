@@ -64,9 +64,6 @@ Based on their Role permissions, Agents can reply back to the end user by typing
 
 If a response is required yet the Agent does not want to send the response to the user but still post the response to the ticket thread, they can select the “Do Not Email Reply” from the drop down above the reply box for the user. This will also not send email replies to any collaborators on the ticket.
 
-.. image:: ../../_static/images/agent_tickets_ticket_ticketReplyTo.png
-  :alt: Ticket Reply To
-
 This response will be in the thread and visible to the ticket owner and any collaborators when they check the status of the ticket from the Client Portal of the help desk.
 
 
